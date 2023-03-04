@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Braun</h1>
 <h3 align="center">A passionate Geek from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=braun92&label=Profile%20views&color=0e75b6&style=flat" alt="braun92" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=braun92&label=Profile%20views&color=0e75b6&style=flat" alt="braun92" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
