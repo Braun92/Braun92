@@ -1,15 +1,9 @@
-[![MasterHead](https://images.pexels.com/photos/1309766/pexels-photo-1309766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://Braun92.io)
 <h1 align="center">Hi 👋, I'm Braun</h1>
 <h3 align="center">A passionate Geek from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Z3mOIj2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=braun92&label=Profile%20views&color=0e75b6&style=flat" alt="braun92" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **.NET, Python**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
